@@ -29,42 +29,12 @@
       "name": "Luis Morales",
       "image": "http://image.com/luis_morales",
       "schedule": "0"
-    },
-    {
-      "id": 6,
-      "name": "Sofia Lopez",
-      "image": "http://image.com/sofia_lopez",
-      "schedule": "0"
-    },
-    {
-      "id": 7,
-      "name": "Miguel Rodriguez",
-      "image": "http://image.com/miguel_rodriguez",
-      "schedule": "0"
-    },
-    {
-      "id": 8,
-      "name": "Laura Hernandez",
-      "image": "http://image.com/laura_hernandez",
-      "schedule": "0"
-    },
-    {
-      "id": 9,
-      "name": "Jorge Ramirez",
-      "image": "http://image.com/jorge_ramirez",
-      "schedule": "0"
-    },
-    {
-      "id": 10,
-      "name": "Claudia Jimenez",
-      "image": "http://image.com/claudia_jimenez",
-      "schedule": "0"
     }
   ],
   "top-employees": [
     {
-      "id": 7,
-      "name": "Miguel Rodriguez"
+      "id": 5,
+      "name": "Luis Morales"
     },
     {
       "id": 3,
@@ -75,8 +45,8 @@
       "name": "Juan Flores"
     },
     {
-      "id": 6,
-      "name": "Sofia Lopez"
+      "id": 2,
+      "name": "Maria Perez"
     }
   ],
   "inventory": [
@@ -140,36 +110,6 @@
       "name": "Salt",
       "quantity": 25,
       "image": "http://image.com/salt"
-    },
-    {
-      "id": 12,
-      "name": "Pepper",
-      "quantity": 12,
-      "image": "http://image.com/pepper"
-    },
-    {
-      "id": 13,
-      "name": "Sugar",
-      "quantity": 22,
-      "image": "http://image.com/sugar"
-    },
-    {
-      "id": 14,
-      "name": "Flour",
-      "quantity": 30,
-      "image": "http://image.com/flour"
-    },
-    {
-      "id": 15,
-      "name": "Milk",
-      "quantity": 20,
-      "image": "http://image.com/milk"
-    },
-    {
-      "id": 16,
-      "name": "Food",
-      "quantity": 1,
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frevistacitylife.com%2Fwp-content%2Fuploads%2F2022%2F07%2FBannerPostsComeMas.jpg&f=1&nofb=1&ipt=a7d1dde61ad4cbf5d69b30f8556ab6f1b27af192c0687cfdc3223706939c6fc9&ipo=images"
     }
   ],
   "reports": [
@@ -206,41 +146,6 @@
       "date": "2024-09-06",
       "description": "Service to Table 4",
       "amount": 30,
-      "type": "income"
-    },
-    {
-      "id": 6,
-      "date": "2024-09-07",
-      "description": "Service to Table 6",
-      "amount": 30,
-      "type": "income"
-    },
-    {
-      "id": 7,
-      "date": "2024-09-08",
-      "description": "Service to Table 8",
-      "amount": 40,
-      "type": "income"
-    },
-    {
-      "id": 8,
-      "date": "2024-09-09",
-      "description": "Service to Table 9",
-      "amount": 120,
-      "type": "income"
-    },
-    {
-      "id": 9,
-      "date": "2024-09-10",
-      "description": "Service to Table 1",
-      "amount": 60,
-      "type": "income"
-    },
-    {
-      "id": 10,
-      "date": "2024-09-11",
-      "description": "Service to Table 2",
-      "amount": 550,
       "type": "income"
     },
     {
@@ -283,34 +188,6 @@
       "date": "2024-09-07",
       "description": "Purchase of Onion 4 units",
       "amount": 15,
-      "type": "expense"
-    },
-    {
-      "id": 17,
-      "date": "2024-09-08",
-      "description": "Purchase of Garlic 2 units",
-      "amount": 5,
-      "type": "expense"
-    },
-    {
-      "id": 18,
-      "date": "2024-09-09",
-      "description": "Purchase of Bell Pepper 3 units",
-      "amount": 10,
-      "type": "expense"
-    },
-    {
-      "id": 19,
-      "date": "2024-09-10",
-      "description": "Purchase of Olive Oil 1 unit",
-      "amount": 5,
-      "type": "expense"
-    },
-    {
-      "id": 20,
-      "date": "2024-09-11",
-      "description": "Purchase of Vinegar 1 unit",
-      "amount": 5,
       "type": "expense"
     }
   ],
@@ -477,30 +354,24 @@
     },
     {
       "id": 3,
-      "name": "Fettuccine Alfredo",
-      "price": 12,
-      "category": "main"
-    },
-    {
-      "id": 4,
       "name": "Ceviche",
       "price": 12,
       "category": "starter"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Wellington",
       "price": 12,
       "category": "special"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Mazamorra",
       "price": 12,
       "category": "dessert"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Lemonade",
       "price": 12,
       "category": "drink"
@@ -548,25 +419,6 @@
         }
       ],
       "employee": 10,
-      "totalPrice": 0
-    },
-    {
-      "id": "7d90",
-      "date": "2024-10-20",
-      "table": 5,
-      "dishes": [
-        {
-          "id": 4,
-          "quantity": 1,
-          "instruction": null
-        },
-        {
-          "id": 6,
-          "quantity": 1,
-          "instruction": null
-        }
-      ],
-      "employee": 8,
       "totalPrice": 0
     }
   ]
